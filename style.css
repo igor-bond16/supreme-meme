@@ -1,0 +1,10 @@
+ h3 {
+     font-size:250%;
+ }
+
+ @media screen and [max-width:480px]{
+     h3{
+         font-size: 200%;
+         color: blue;
+     }
+ }
